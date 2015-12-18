@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt_BR" ng-app="app">
+<html lang="pt_BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -202,7 +202,7 @@
                         <div id="cultura" class="tab-pane fade in ">
 
                             <div class="branco col-sm-4">
-                                <h3>CULTURA</h3>
+                                <h3>Cultura</h3>
                                 <h4>Modernização do Teatro Municipal</h4>
                                 <p>Reconstrução e modernização completa do Teatro Municipal Waldir Silveira Mello. A entrega do prédio está programa para o início de 2016.</p>
 
@@ -530,33 +530,7 @@
 
                         </div>
                         <!-- final da tab -->
-                        <!-- tab -->
-                        <div id="esporte" class="tab-pane fade">
-
-                            <div class="branco col-sm-4">
-                                <h3>esporte</h3>
-                                <h4>Nova Marília</h4>
-                                <p>A creche nova Marília,na zona sul da cidade foi reformada e ampliada. Hoje a unidade de educação infantil tem capacidade para atender 110 crianças de 0 a 5 anos em tempo integral, de segunda a sexta das 7h ás 17h.</p>
-                            <div class="space text-center" style="padding-bottom:0px;">
-                                <!--<ul class="pagination pagination-sm">
-                                  <li><a data-toggle="pill" href="#"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
-                                  <li class="disabled"><a href><i class="glyphicon glyphicon-minus"></i></a></li>
-                                  <li><a data-toggle="pill" href="#"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
-                                </ul>-->
-
-                            </div>
-
-                            </div>
-                                
-                            <div id="no" class="col-sm-8" style="padding: 0px;">
-                            
-                                <img src="imgs/destaques/16.png" class="img-responsive" alt="">
-                    
-                                <br>
-                            </div>
-
-                        </div>
-                        <!-- final da tab -->
+                      
                                                 <!-- tab -->
                         <div id="habitacao" class="tab-pane fade">
 
@@ -1225,8 +1199,8 @@
         }(document, "script", "twitter-wjs"));
     </script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
-<script src="js/angular-animate.min.js"></script>
 <script src="js/angular.min.js"></script>
+<script src="js/angular-animate.min.js"></script>
 <script src="js/app.js"></script>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
