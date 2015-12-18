@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
     <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="stylesheet.css">
-    <title>Marília</title>
+    <title>Marília com você.</title>
 
 
 </head>
@@ -1074,7 +1074,7 @@
                             <div class="branco col-sm-4">
                                 <h3>Saúde</h3>
                                 <h4>UPA 24 horas – Zona Norte</h4>
-                                <p>A nova Unidade de Pronto Atendimento – UPA 24h da zona norte atende a urgência e emergência em clínica geral, pediatria e odontologia e conta com consultórios, laboratório próprio e raio-X.</p>
+                                <p>A nova Unidade de Pronto Atendimento – UPA 24h da zona norte atende a urgência e emergência em clínica geral, pediatria e odontologia e conta com consultórios, raio-X e laboratório próprio.</p>
                             <div class="space text-center" style="padding-bottom:0px;">
                                 <ul class="pagination pagination-sm">
                                   <li><a data-toggle="pill" href="#saude4"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
@@ -1228,4 +1228,15 @@
 <script src="js/angular-animate.min.js"></script>
 <script src="js/angular.min.js"></script>
 <script src="js/app.js"></script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-70305347-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
 </html>
