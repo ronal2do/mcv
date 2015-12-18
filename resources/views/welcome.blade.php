@@ -122,7 +122,7 @@
                         <div id="agricultura" class="tab-pane fade in active">
 
                             <div class="branco col-sm-4">
-                                <h3>AGRICULTURA</h3>
+                                <h3>Agricultura</h3>
                                 <h4>Novas pontes</h4>
                                 <p>Já foram recuperadas 14 pontes na área rural de Marília, tendo sido 10 totalmente refeitas, e reformados sete mata-burros, medidas que vão facilitar o escoamento da produção e a circulação dos produtores e suas famílias.</p>
 
