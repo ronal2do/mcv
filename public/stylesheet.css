@@ -1,0 +1,65 @@
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+.carousel-control.right {
+    right: 0;
+    left: auto;
+    background-image: -webkit-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.0001) 100%);
+    background-image: -o-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.0001) 100%);
+    background-image: -webkit-gradient(linear,left top,right top,from(rgba(0,0,0,.0001)),to(rgba(0,0,0,.1)));
+    background-image: linear-gradient(to right,rgba(0,0,0,.0001) 0,rgba(0,0,0,.0001) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+    background-repeat: repeat-x;
+}
+.carousel-control.left {
+    background-image: -webkit-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.0001) 100%);
+    background-image: -o-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.0001) 100%);
+    background-image: -webkit-gradient(linear,left top,right top,from(rgba(0,0,0,.0001)),to(rgba(0,0,0,.0001)));
+    background-image: linear-gradient(to right,rgba(0,0,0,.0001) 0,rgba(0,0,0,.0001) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
+    background-repeat: repeat-x;
+}
+.carousel-caption h3{
+      margin:0 auto;
+      text-align:left;
+      color: #fff;
+}
+.carousel-caption p{
+      max-width: 550px;
+      margin-top: 350px;
+      text-align:right;
+
+}
+.menu a:active { 
+    color: #612060;
+    text-decoration: none;
+    font-weight: 300;
+}
+.menu a:visited { 
+    color: #612060;
+    text-decoration: none;
+    font-weight: 300;
+}
+.menu a:focus { 
+    color: #612060;
+    text-decoration: none;
+    font-weight: 300;
+}
+.active{color: #612060;
+	text-decoration: none;
+	font-weight: 300;
+}
+.blurred-img { opacity: 1; }
+.img-src {		    
+	z-index: -1;
+}
+#section-blue{
+	background:url(imgs/azul.png);
+ 	margin-top:0px; 
+ 	height:100%;
+ 	background-repeat: no-repeat; 
+ 	background-attachment:fixed;
+ 	background-position: 50% 0;
+ 	background-color: #7ecdda;
+}
+#frase{display: none;}
