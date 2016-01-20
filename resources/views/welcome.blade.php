@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt_br" ng-app="app">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -42,16 +42,7 @@ div.ferramentas_texto a:hover{
 </style>
 </head>
 <body>
-    <!-- <div class="pull-right">
-            <div
-              class="fb-like"
-              data-share="true"
-              data-width="450"
-              data-show-faces="true">
-            </div>
-        twitter
-        youtube
-    </div>-->
+
 <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
@@ -1229,7 +1220,7 @@ div.ferramentas_texto a:hover{
                       data-chrome="noborders">
                     Tweets by @Pref_Marilia
                     </a>
-                </div><!-- <iframe frameborder="0" width="500" height="315" src="http://marilia.tweetwally.com/embed" target="_blank" align="center" scrolling="Auto"></iframe>-->
+                </div>
             </div>
         </div>
     </div>
