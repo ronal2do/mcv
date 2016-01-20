@@ -107,12 +107,7 @@ div.ferramentas_texto a:hover{
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
                   <img src="imgs/banner1.png" alt="Slide 1">
-                  <!--
-                  <div class="carousel-caption"><br><br>
-                    <h3>Entrega de <b>12 novos</b><br>veículos escolares</h3>
-                    <p class="pull-right">Mais de <br><b>300</b><br>alunos beneficiados<br> todos os dias</p>
-                  </div>
-                  -->
+                  
                 </div>
 
                 <div class="item">
@@ -1305,10 +1300,6 @@ div.ferramentas_texto a:hover{
  $('body').on('click','#myCarousel .carousel-control',function() {
            $(this).closest('.carousel').carousel( $(this).data('slide') );
         });
-
- //Guilherme Serrano - Ferramenta para aumentar e reduzir o tamanho da fonte (jQuery)
-//www.odesenvolvedor.com.br
-//andafter.org
 
 $(document).ready(function(){
 var fonte = 13;
