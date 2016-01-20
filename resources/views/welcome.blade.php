@@ -1197,7 +1197,7 @@ div.ferramentas_texto a:hover{
                 
                 <hr>
                <div class="vid">
-                     <iframe width="560" height="315" src="https://www.youtube.com/embed/FwGM0GGEc-4" allowfullscreen></iframe>
+                     <iframe width="560" height="315" src="https://www.youtube.com/embed/FwGM0GGEc-4" frameborder="0" allowfullscreen></iframe>
                 </div><!--./vid -->
             <hr>
                 
