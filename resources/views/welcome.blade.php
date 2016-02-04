@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css">
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,100,300,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="stylesheet.css">
     <title>Marília</title>
 
@@ -147,10 +147,11 @@ div.ferramentas_texto a:hover{
                             <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#agricultura">agricultura</a></li>
                             <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#cidadania">cidadania</a></li>
                             <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#cultura">cultura</a></li>
-                            <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#educacao">educação</a></li>
-                            <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#infraestrutura">infraestrutura</a></li>
+                            <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#educacao6">educação</a></li>
+                            <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#infraestrutura8">infraestrutura</a></li>
+                            <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#investimento">investimento</a></li>
                             <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#meioambiente">meio ambiente</a></li>
-                            <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#mobilidade">mobilidade</a></li>                         
+                            <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#mobilidade3">mobilidade</a></li>                         
                             <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#habitacao">moradia</a></li>             
                             <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#saude">saúde</a></li>
                         </ul>
@@ -433,6 +434,32 @@ div.ferramentas_texto a:hover{
                         </div>
                         <!-- final da tab -->
                         <!-- tab -->
+                         <div id="educacao6" class="tab-pane fade">
+
+                            <div class="branco col-sm-4">
+                                <h3>Educação</h3>
+                                <h4>Volta às aulas</h4>
+                                <p>
+                                    A Prefeitura está organizando um mutirão para iniciar com tudo pronto para o ano letivo nas escolas municipais. Unidades vão receber capinação, pintura, limpeza, entre outros. 
+                                </p> <div class="space text-center" style="padding-bottom:0px;">
+                                <ul class="pagination pagination-sm">
+                                    <li><a data-toggle="pill" data-target="#cultura"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                  <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
+                                  <li ><a data-toggle="pill" data-target="#educacao"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+                                </ul>
+
+                            </div>
+
+                            </div>
+                                
+                            <div class="col-sm-8" style="padding: 0px;">
+                            
+                                <img src="imgs/destaques/VoltaAsAulas.jpg" class="img-responsive" alt="">
+                    
+                                <br>
+                            </div>
+
+                        </div>
                         <div id="educacao" class="tab-pane fade">
 
                             <div class="branco col-sm-4">
@@ -441,7 +468,7 @@ div.ferramentas_texto a:hover{
                                 <p>Foram reformadas e ampliadas duas creches e construídas outras seis como a EMEI Beija Flor, Bem Me Quer e Nova Marília II. Estas realizações garantiram mais 450 vagas na educação infantil.</p>
                             <div class="space text-center" style="padding-bottom:0px;">
                                 <ul class="pagination pagination-sm">
-                                    <li><a data-toggle="pill" data-target="#cultura"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                    <li><a data-toggle="pill" data-target="#educacao6"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
                                   <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
                                   <li ><a data-toggle="pill" data-target="#educacao2"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
                                 </ul>
@@ -558,7 +585,8 @@ div.ferramentas_texto a:hover{
                                 <div class="space text-center" style="padding-bottom:0px;">
                                     <ul class="pagination pagination-sm">
                                       <li><a data-toggle="pill" data-target="#educacao4"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
-                                      <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>                            <li><a data-toggle="pill" data-target="#infraestrutura"><i class="glyphicon glyphicon-chevron-right"></i></a></li>       
+                                      <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>         
+                                      <li><a data-toggle="pill" data-target="#infraestrutura8"><i class="glyphicon glyphicon-chevron-right"></i></a></li>       
                                     </ul>
                                 </div>
 
@@ -712,6 +740,85 @@ div.ferramentas_texto a:hover{
 
 
                         <!-- tab -->
+                        <div id="infraestrutura8" class="tab-pane fade">
+
+                            <div class="branco col-sm-4">
+                                <h3>Infraestrutura</h3>
+                                <h4>Operação Tapa Buracos avança</h4>
+                                <p>
+                                    Recentemente a zona norte foi contemplada com obras de pavimentação e recuperação do asfalto. Bairros como o Primavera, Santa Antonieta e Julieta foram alguns dos beneficiados.
+                                </p>
+                                <div class="space text-center" style="padding-bottom:0px;">
+                                    <ul class="pagination pagination-sm">
+                                      <li><a data-toggle="pill" data-target="#educacao5"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                      <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
+                                      <li ><a data-toggle="pill" data-target="#infraestrutura9"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+                                    </ul>
+
+                                </div>
+
+                            </div>
+                                
+                            <div class="col-sm-8" style="padding: 0px;">
+                            
+                                <img src="imgs/destaques/Tapa-Buracos.jpg" class="img-responsive" alt="">
+                    
+                                <br>
+                            </div>
+
+                        </div> <div id="infraestrutura9" class="tab-pane fade">
+
+                            <div class="branco col-sm-4">
+                                <h3>Infraestrutura</h3>
+                                <h4>Nova iluminação</h4>
+                                <p>
+                                    A avenida Vicente Ferreira, uma importante via de Marília, teve sua iluminação requalificada. É mais segurança e claridade no caminho de pedestres, ciclistas e motoristas. 
+                                </p>
+                                <div class="space text-center" style="padding-bottom:0px;">
+                                    <ul class="pagination pagination-sm">
+                                      <li><a data-toggle="pill" data-target="#infraestrutura8"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                      <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
+                                      <li ><a data-toggle="pill" data-target="#infraestrutura10"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+                                    </ul>
+
+                                </div>
+
+                            </div>
+                                
+                            <div class="col-sm-8" style="padding: 0px;">
+                            
+                                <img src="imgs/destaques/IluminacaoVincenteFerreira.jpg" class="img-responsive" alt="">
+                    
+                                <br>
+                            </div>
+
+                        </div> <div id="infraestrutura10" class="tab-pane fade">
+
+                            <div class="branco col-sm-4">
+                                <h3>Infraestrutura</h3>
+                                <h4>Acessibilidade garantida</h4>
+                                <p>
+                                    A avenida Sampaio Vidal ganhou rampas em toda a sua extensão. Esta obra vai facilitar a locomoção e garantir a segurança de cadeirantes e a passagem de carrinhos de bebê e de pessoas com mobilidade reduzida.
+                                </p>
+                                <div class="space text-center" style="padding-bottom:0px;">
+                                    <ul class="pagination pagination-sm">
+                                      <li><a data-toggle="pill" data-target="#infraestrutura9"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                      <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
+                                      <li ><a data-toggle="pill" data-target="#infraestrutura"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+                                    </ul>
+
+                                </div>
+
+                            </div>
+                                
+                            <div class="col-sm-8" style="padding: 0px;">
+                            
+                                <img src="imgs/destaques/RampasSampaio.jpg" class="img-responsive" alt="">
+                    
+                                <br>
+                            </div>
+
+                        </div>
                         <div id="infraestrutura" class="tab-pane fade">
 
                             <div class="branco col-sm-4">
@@ -722,7 +829,7 @@ div.ferramentas_texto a:hover{
                                 </p>
                                 <div class="space text-center" style="padding-bottom:0px;">
                                     <ul class="pagination pagination-sm">
-                                        <li><a data-toggle="pill" data-target="#educacao5"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                        <li><a data-toggle="pill" data-target="#infraestrutura10"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
                                       <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
                                       <li ><a data-toggle="pill" data-target="#infraestrutura2"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
                                     </ul>
@@ -878,7 +985,7 @@ div.ferramentas_texto a:hover{
                                     <ul class="pagination pagination-sm">
                                       <li><a data-toggle="pill" data-target="#infraestrutura6"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
                                       <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
-                                      <li><a data-toggle="pill" data-target="#meioambiente"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+                                      <li><a data-toggle="pill" data-target="#investimento"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
                                     </ul>
 
                                 </div>
@@ -893,8 +1000,87 @@ div.ferramentas_texto a:hover{
                             </div>
 
                         </div>
+                          <div id="investimento" class="tab-pane fade">
+
+                            <div class="branco col-sm-4">
+                                <h3>Investimento</h3>
+                                <h4>Reunião com multinacional japonesa</h4>
+                                <p>A Calbee Global, uma importante empresa do ramo alimentício, vem demonstrando interesse em se instalar na América do Sul, e participou de reunião com representantes de Marília para saber mais sobre o potencial da cidade. Em breve teremos novidades. </p>
+                                <div class="space text-center" style="padding-bottom:0px;">
+                                    <ul class="pagination pagination-sm">
+                                      <li><a data-toggle="pill" data-target="#infraestrutura7"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                      <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
+                                      <li><a data-toggle="pill" data-target="#meioambiente"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+                                    </ul>
+
+                                </div>
+
+                            </div>
+                                
+                            <div class="col-sm-8" style="padding: 0px;">
+                            
+                                <img src="imgs/destaques/ReuniaoJapao.jpg" class="img-responsive" alt="">
+                    
+                                <br>
+                            </div>
+
+                        </div>
                         <!-- final da tab -->
                         <!-- tab -->
+                          <div id="mobilidade3" class="tab-pane fade">
+
+                            <div class="branco col-sm-4">
+                                <h3>Mobilidade</h3>
+                                <h4>Organização no trânsito</h4>
+                                <p>
+                                    Uma nova rotatória foi construída na zona oeste de Marília. A medida vai otimizar e organizar melhor o trânsito, além de prevenir acidentes.
+                                </p>
+                                <div class="space text-center" style="padding-bottom:0px;">
+                                    <ul class="pagination pagination-sm">
+                                      <li ><a data-toggle="pill" data-target="#meioambiente-2"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                      <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
+                                      <li ><a data-toggle="pill" data-target="#mobilidade4"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+                                    </ul>
+
+                                </div>
+
+                            </div>
+                                
+                            <div class="col-sm-8" style="padding: 0px;">
+                            
+                                <img src="imgs/destaques/RotatoriaOeste.jpg" class="img-responsive" alt="">
+                    
+                                <br>
+                            </div>
+
+                        </div>
+                        <div id="mobilidade4" class="tab-pane fade">
+
+                            <div class="branco col-sm-4">
+                                <h3>Mobilidade</h3>
+                                <h4>Operação Carnaval</h4>
+                                <p>
+                                    A Emdurb preparou uma ação especial para os dias de folia. A medida tem o objetivo de reduzir acidentes e garantir a diversão com segurança. 
+                                </p>
+                                <div class="space text-center" style="padding-bottom:0px;">
+                                    <ul class="pagination pagination-sm">
+                                      <li ><a data-toggle="pill" data-target="#mobilidade3"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                      <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
+                                      <li ><a data-toggle="pill" data-target="#mobilidade"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+                                    </ul>
+
+                                </div>
+
+                            </div>
+                                
+                            <div class="col-sm-8" style="padding: 0px;">
+                            
+                                <img src="imgs/destaques/OperacaoCarnaval.jpg" class="img-responsive" alt="">
+                    
+                                <br>
+                            </div>
+
+                        </div>
                         <div id="mobilidade" class="tab-pane fade">
 
                             <div class="branco col-sm-4">
@@ -903,7 +1089,7 @@ div.ferramentas_texto a:hover{
                                 <p>Serão instaladas 489 rampas de acessibilidade, facilitando a mobilidade para pessoas com deficiência, idosos e bebês em carrinhos nas principais ruas e avenidas de Marília.</p>
                                 <div class="space text-center" style="padding-bottom:0px;">
                                     <ul class="pagination pagination-sm">
-                                      <li ><a data-toggle="pill" data-target="#meioambiente-2"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                      <li ><a data-toggle="pill" data-target="#mobilidade3"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
 
                                       <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
                                       <li ><a data-toggle="pill" data-target="#mobilidade2"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
