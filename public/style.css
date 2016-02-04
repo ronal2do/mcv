@@ -182,8 +182,6 @@ footer{
     	padding-left: 0px; 
 
 }
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+.navbar-nav>li>a {
     font-family: "Lato";
-    font-weight: normal;
-    line-height: 1.1;
 }

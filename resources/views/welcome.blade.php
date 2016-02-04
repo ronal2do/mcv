@@ -106,20 +106,20 @@ div.ferramentas_texto a:hover{
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                  <img src="imgs/banner1.png" alt="Slide 1">
+                  <img src="imgs/Destaques-KitEscolar.png" alt="Slide 1">
                   
                 </div>
 
                 <div class="item">
-                  <img src="imgs/banner2.png" alt="Slide 2">
+                  <img src="imgs/Destaques-RuasRevitalizadas.png" alt="Slide 2">
                 </div>
 
                 <div class="item">
-                  <img src="imgs/banner3.png" alt="Slide 3">
+                  <img src="imgs/Destaques-MaisMoradiaPopular.png" alt="Slide 3">
                 </div>
 
                 <div class="item centered">
-                  <img src="imgs/banner4.png" alt="Slide 4">
+                  <img src="imgs/Destaques-CombateAedes.png" alt="Slide 4">
                 </div>
               </div>
 
