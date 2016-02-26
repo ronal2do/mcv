@@ -153,7 +153,7 @@ div.ferramentas_texto a:hover{
                             <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#meioambiente">meio ambiente</a></li>
                             <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#mobilidade3">mobilidade</a></li>                         
                             <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#habitacao">moradia</a></li>             
-                            <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#saude">saúde</a></li>
+                            <li class="menu"><a data-toggle="pill" style="text-transform:capitalize;" data-target="#saude7">saúde</a></li>
                         </ul>
                         <div class="space hidden-xs"></div>
                         <br>
@@ -1191,6 +1191,47 @@ div.ferramentas_texto a:hover{
 
                         </div>
                         <!-- final da tab -->
+                                               <!-- tab -->
+                        <div id="saude7" class="tab-pane fade">
+
+                            <div class="branco col-sm-6">
+                                <h3>Saúde</h3>
+                                <h4>Mais 27% em verbas na saúde</h4>
+                                <p>A Prefeitura de Marília realizou recentemente audiência pública de prestação de contas dos últimos quatro meses do ano de 2015.
+
+Durante cerca de três horas foram apresentados números e informações sobre programas e 
+
+realizações destacando o crescimento dos investimentos na saúde, resultados obtidos e 
+
+perspectivas de novas ações e investimentos, o que demonstra que a saúde, ao lado da educação e 
+
+da Operação Tapa Buracos, é prioridade do governo municipal.
+
+Este acréscimo de 27% nas verbas aplicadas na área da saúde pela atual administração é um fato 
+
+inédito na história do município. Nos últimos anos, a média de investimentos no setor vem 
+
+aumentando em R$ 10 milhões por exercício financeiro.</p>
+                            <div class="space text-center" style="padding-bottom:0px;">
+                                <ul class="pagination pagination-sm">
+                                 <li><a data-toggle="pill" data-target="#habitacao"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                  <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
+                                  <li ><a data-toggle="pill" data-target="#saude"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+                                </ul>
+
+                            </div>
+
+                            </div>
+                                
+                            <div class="col-sm-6" style="padding: 0px;">
+                            
+                                <img src="imgs/destaques/upa.jpg" class="img-responsive" alt="">
+                    
+                                <br>
+                            </div>
+
+                        </div>
+                        <!-- final da tab -->
                                                 <!-- tab -->
                         <div id="saude" class="tab-pane fade">
 
@@ -1200,7 +1241,7 @@ div.ferramentas_texto a:hover{
                                 <p>A nova unidade do Hospital de Reabilitação Lucy Montoro de Marília oferece atendimento ambulatorial a pessoas com deficiência ou com doenças potencialmente incapacitantes.</p>
                             <div class="space text-center" style="padding-bottom:0px;">
                                 <ul class="pagination pagination-sm">
-                                 <li><a data-toggle="pill" data-target="#habitacao"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                                 <li><a data-toggle="pill" data-target="#saude7"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
                                   <li class="disabled"><a data-target><i class="glyphicon glyphicon-minus"></i></a></li>
                                   <li ><a data-toggle="pill" data-target="#saude2"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
                                 </ul>
