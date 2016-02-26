@@ -1197,21 +1197,11 @@ div.ferramentas_texto a:hover{
                             <div class="branco col-sm-6">
                                 <h3>Saúde</h3>
                                 <h4>Mais 27% em verbas na saúde</h4>
-                                <p>A Prefeitura de Marília realizou recentemente audiência pública de prestação de contas dos últimos quatro meses do ano de 2015.
+                                <p>A Prefeitura de Marília realizou recentemente audiência pública de prestação de contas dos últimos quatro meses do ano quando foram apresentados números e informações sobre programas e realizações, resultados obtidos e perspectivas de mais investimentos, o que demonstra que a saúde, ao lado da educação e da Operação Tapa Buracos, é prioridade do governo municipal.
+                               
+                                   Este acréscimo de 27% nas verbas aplicadas na área da saúde é um fato inédito na história do município. Nos últimos anos, a média de investimentos no setor aumentou em R$ 10 milhões por exercício financeiro.
+                                </p>
 
-Durante cerca de três horas foram apresentados números e informações sobre programas e 
-
-realizações destacando o crescimento dos investimentos na saúde, resultados obtidos e 
-
-perspectivas de novas ações e investimentos, o que demonstra que a saúde, ao lado da educação e 
-
-da Operação Tapa Buracos, é prioridade do governo municipal.
-
-Este acréscimo de 27% nas verbas aplicadas na área da saúde pela atual administração é um fato 
-
-inédito na história do município. Nos últimos anos, a média de investimentos no setor vem 
-
-aumentando em R$ 10 milhões por exercício financeiro.</p>
                             <div class="space text-center" style="padding-bottom:0px;">
                                 <ul class="pagination pagination-sm">
                                  <li><a data-toggle="pill" data-target="#habitacao"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
