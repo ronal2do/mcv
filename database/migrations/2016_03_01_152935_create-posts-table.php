@@ -22,7 +22,7 @@ class CreatePostsTable extends Migration
             $table->foreign('categoria_id')->references('id')
                                     ->on('categorias')
                                     ->onDelete('restrict');
-            $table->timestamp();
+            $table->timestamps();
         });
     }
 
