@@ -175,13 +175,14 @@ body:not(.boxed-width) .layouts-carousel {
                   <ul class="menu-smart text-uppercase">
                                                                                         <li class="filter-show-all">
                                                                                         <span>
-                                                                                            <a href="#" data-filter="*" class="active">Todos</a>
+                                                                                            <a href="#" data-filter="*" class="active" style="color: #61205F">Todos</a>
                                                                                         </span>
                                                                                         </li>
                                                                                         @foreach($categorias as $categoria)
                                                                                             <li class="filter-{!!$categoria->slug!!}">
                                                                                                 <span><a href="#"
-                                                                                                         data-filter="grid-{!!$categoria->slug!!}">{!!$categoria->titulo!!}</a></span>
+                                                                                                         data-filter="grid-{!!$categoria->slug!!}"
+                                                                                                         style="color: #61205F">{!!$categoria->titulo!!}</a></span>
                                                                                             </li>
                                                                                         @endforeach
                                                                                     </ul>
@@ -189,13 +190,8 @@ body:not(.boxed-width) .layouts-carousel {
           </div>
                           <div class="isotope-wrapper double-gutter">
       <div class="isotope-container isotope-layout style-masonry isotope-pagination" data-type="masonry" data-layout="fitRows" data-lg="1200" data-md="600" data-sm="600" style="position: relative; height: 696px; opacity: 1;">
-        
-
-
-
-
 <!--/ ITEM   -->
-    <!-- COMEÇO -->
+
                                                                                     @foreach($posts as $post)
                                                                                         <div class="tmb tmb-iso-w4 tmb-iso-h4 img-round tmb-dark tmb-overlay-anim tmb-content-center tmb-text-space-reduced tmb-shadowed tmb-bordered tmb-entry-title-capitalize  grid-{{$post->categoria->slug}} tmb-no-double-tap tmb-img-ratio tmb-content-under tmb-media-first tmb-no-bg">
                                                                                             <div class="t-inside animate_when_almost_visible bottom-t-top"
