@@ -139,6 +139,8 @@ Custom CSS for Uncode Theme Splash
     <div class="box-container">
         <script type="text/javascript">UNCODE.initBox();</script>
         <div class="menu-wrapper menu-shrink menu-no-arrows">
+
+
         </div>
         <script type="text/javascript">UNCODE.fixMenuHeight();</script>
         <div class="main-wrapper">

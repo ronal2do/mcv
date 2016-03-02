@@ -72,7 +72,7 @@
 <section id="fundo2" class="amarela">
 
 
-@include('includes.obras')
+@include('includes.obras-ou')
 
 
 
