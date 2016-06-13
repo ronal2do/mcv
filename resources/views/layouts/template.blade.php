@@ -77,15 +77,20 @@ div.ferramentas_texto a:hover{
 
 @yield('content')
 
-
 <footer>
-    <div class="container">
-        <div class="assinatura">
-            <div class="row">
-                <div class="col-sm-1 mapa"></div>
-                <div class="col-sm-9"><a href="http://www.marilia.sp.gov.br" target="_blank"><br>www.<b>marilia</b>.sp.gov.br<br></a>
-                Rua Bahia, 40 - Centro - CEP 17501-900 - Telefone (14)3402-6000<br><br></div>
-                <div class="col-sm-2"><img src="{{ asset('imgs/logo.jpg') }}" alt=""></div>
+    <div class="box-wrapper">
+        <div class="box-container">
+          <div class="main-wrapper">
+            <div class="main-container">
+            <div class="assinatura">
+                <div class="container">
+                    <div class="col-sm-1 mapa"></div>
+                    <div class="col-sm-9"><a href="http://www.marilia.sp.gov.br" target="_blank"><br>www.<b>marilia</b>.sp.gov.br<br></a>
+                    Rua Bahia, 40 - Centro - CEP 17501-900 - Telefone (14)3402-6000<br><br></div>
+                    <div class="col-sm-2"><img src="{{ asset('imgs/logo.jpg') }}" alt=""></div>
+                </div>
+            </div>
+              </div>
             </div>
         </div>
     </div>
