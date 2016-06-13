@@ -16,32 +16,6 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1456098927,byc:0,owlid
 </script>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://www.undsgn.com/uncode/xmlrpc.php">
-<title>Uncode - Creative Multiuse WordPress Theme</title>
-        <script type="text/javascript">
-        var ajaxurl = 'http://www.undsgn.com/uncode/wp-admin/admin-ajax.php';
-        </script>
-        
-<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Uncode is a pixel perfect creative multiuse Wordpress Theme designed with terrific attention to details and performances.">
-<meta name="robots" content="noodp">
-<link rel="canonical" href="http://www.undsgn.com/uncode/">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Uncode - Creative Multiuse WordPress Theme">
-<meta property="og:description" content="Uncode is a pixel perfect creative multiuse Wordpress Theme designed with terrific attention to details and performances.">
-<meta property="og:url" content="http://www.undsgn.com/uncode/">
-<meta property="og:site_name" content="Uncode">
-<meta property="og:image" content="http://cdn.undsgn.com/uncode/wp-content/uploads/2014/12/Uncode-Theme-Splash.jpg">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="Uncode is a pixel perfect creative multiuse Wordpress Theme designed with terrific attention to details and performances.">
-<meta name="twitter:title" content="Uncode - Creative Multiuse WordPress Theme">
-<meta name="twitter:image" content="http://cdn.undsgn.com/uncode/wp-content/uploads/2014/12/Uncode-Theme-Splash.jpg">
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.undsgn.com\/uncode\/","name":"Uncode","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.undsgn.com\/uncode\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<!-- / Yoast SEO plugin. -->
-
-<link rel="alternate" type="application/rss+xml" title="Uncode » Feed" href="http://www.undsgn.com/uncode/feed/">
-<link rel="alternate" type="application/rss+xml" title="Uncode » Comments Feed" href="http://www.undsgn.com/uncode/comments/feed/">
-        
 
 <link rel="stylesheet" id="dashicons-css" href="assets/dashicons.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="wp-jquery-ui-dialog-css" href="assets/jquery-ui-dialog.min.css" type="text/css" media="all">
@@ -239,14 +213,8 @@ body:not(.boxed-width) .layouts-carousel {
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
-
                                                                                         @endforeach
-
                                                                                                 <!-- FINAL -->
-
-
-
-
       </div>
 
     </div>
@@ -309,6 +277,3 @@ var SiteParameters = {"site_url":"http:\/\/www.undsgn.com\/uncode","theme_direct
 </script>
 <script type="text/javascript" src="assets/app.min.js"></script>
 <script type="text/javascript" src="assets/wp-embed.min.js"></script>
-
-
-<iframe style="display: none;"></iframe></body></html>
