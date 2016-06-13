@@ -1,18 +1,21 @@
+<!DOCTYPE html>
+<!-- saved from url=(0103)file:///Users/sotaque/Desktop/teste-mr-com-vc/Uncode%20-%20Creative%20Multiuse%20WordPress%20Theme.html -->
+<html class="no-touch webkit chrome chrome48 mac mac10 mac10_10 js no-hidpi minw_1200 orientation_landscape datauri" lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <script async="" src="assets/analytics.js"></script>
 <script async="" src="assets/cloudflare.min.js"></script>
 <script type="text/javascript" async="" src="assets/g2ho48ns"></script>
 
-<link rel="profile" href="http://gmpg.org/xfn/11">
 
-<meta name="description" content="Marília com você.">
-<meta name="robots" content="noodp">
-<link rel="canonical" href="http://mariliacomvoce.com.br/">
-<meta property="og:locale" content="pt_BR">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Marília com você.">
-<meta property="og:description" content="Marília com você.">
-<meta property="og:url" content="http://mariliacomvoce.com.br/">
-<meta property="og:site_name" content="Marília com você.">
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1456098927,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"31ab13ad9aca2502d216a0406d79eb64",petok:"adae93daf706e0d691da51fe2c14697f3012e68c-1456782907-1800",zone:"undsgn.com",rocket:"0",apps:{"abetterbrowser":{"ie":"6","config":"none"}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=fb690a32f5/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.undsgn.com/uncode/xmlrpc.php">
 
 <link rel="stylesheet" id="dashicons-css" href="assets/dashicons.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="wp-jquery-ui-dialog-css" href="assets/jquery-ui-dialog.min.css" type="text/css" media="all">
@@ -59,8 +62,12 @@ var uncode_menucart_ajax = {"nonce":"154067d4ff"};
 <meta name="generator" content="WooCommerce 2.5.2">
 <link rel="shortlink" href="http://www.undsgn.com/uncode/">
 <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-        <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.undsgn.com/uncode/wp-content/plugins/uncode-js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.undsgn.com/uncode/wp-content/plugins/uncode-js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
-<style type="text/css" data-type="vc_custom-css">
+        <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.undsgn.com/uncode/wp-content/plugins/uncode-js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.undsgn.com/uncode/wp-content/plugins/uncode-js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<style type="text/css" data-type="vc_custom-css">/*
+
+Custom CSS for Uncode Theme Splash
+
+*/
 
 .navbar-nav-last {
     display: none !important;
@@ -206,14 +213,8 @@ body:not(.boxed-width) .layouts-carousel {
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
-
                                                                                         @endforeach
-
                                                                                                 <!-- FINAL -->
-
-
-
-
       </div>
 
     </div>
@@ -229,6 +230,12 @@ body:not(.boxed-width) .layouts-carousel {
 
 <script data-cfasync="false">(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/g2ho48ns';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
 
+
+<noscript>
+&amp;lt;div style="display:inline;"&amp;gt;
+&amp;lt;img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/982369348/?value=0&amp;amp;amp;guid=ON&amp;amp;amp;script=0"/&amp;gt;
+&amp;lt;/div&amp;gt;
+</noscript>     
 
 <script type="text/javascript" src="assets/jquery.themepunch.tools.min.js"></script>
 <script type="text/javascript" src="assets/jquery.themepunch.revolution.min.js"></script>
@@ -270,6 +277,3 @@ var SiteParameters = {"site_url":"http:\/\/www.undsgn.com\/uncode","theme_direct
 </script>
 <script type="text/javascript" src="assets/app.min.js"></script>
 <script type="text/javascript" src="assets/wp-embed.min.js"></script>
-
-
-<iframe style="display: none;"></iframe></body></html>
