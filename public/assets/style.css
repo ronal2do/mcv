@@ -9837,11 +9837,7 @@ footer .widget-container.widget_recent_reviews li {
 
 ----------------------------------------------------------
 */
-footer {
-  display: table-row;
-  width: 100%;
-  height: 1px;
-}
+
 footer .footer-last {
   font-size: 13px;
 }
